@@ -1,492 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:2563eb,100:8b5cf6&height=220&section=header&text=Luis%20David%20Montero&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-<br>
-
-# 👨‍💻 LUIS DAVID MONTERO
-
-### `FULL STACK DEVELOPER`
-
-<p>
-  <b>Transformando ideas en experiencias digitales.</b>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:0d2818,100:00ff41&height=220&section=header&text=Luis%20David%20Montero%20Suárez&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20%7C%20Full%20Stack%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=16&descColor=ffffff" width="100%"/>
 </p>
 
 <br>
 
-<a href="https://github.com/luisdavidmontero1016">
-  <img src="https://img.shields.io/badge/GitHub-luisdavidmontero1016-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:TU_CORREO@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Desarrollando+software+con+prop%C3%B3sito;Full+Stack+Developer+%7C+Java+%7C+Python+%7C+C%23;Explorando+Inteligencia+Artificial;Ingeniero+de+Sistemas+%40+Juan+de+Castellanos" alt="Typing SVG" />
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=luisdavidmontero1016&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ SOBRE MÍ
+<a href="https://www.linkedin.com/in/luisdavidmontero1016" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:luisdavidmontero1016@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/luisdavidmontero1016" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
 <br>
 
-<table>
-<tr>
+## 🧠 Sobre mí
 
-<td width="55%" valign="top">
+<img align="right" src="https://raw.githubusercontent.com/luisdavidmontero1016/luisdavidmontero1016/main/assets/coding.gif" width="280" alt="coding gif" onerror="this.style.display='none'"/>
 
-### 👋 ¡Hola!
+```java
+public class LuisDavidMontero {
 
-Soy **Luis David Montero**, desarrollador apasionado por la creación de soluciones de software modernas, funcionales y orientadas a resolver problemas reales.
+    private String rol       = "Ingeniero de Sistemas";
+    private String universidad = "Fundación Universitaria Juan de Castellanos";
+    private String ubicacion = "Tunja, Boyacá - Colombia";
+    private String[] pasiones = {
+        "Desarrollo Full Stack",
+        "Inteligencia Artificial",
+        "Software con propósito social"
+    };
 
-Me interesa especialmente el desarrollo de aplicaciones web, la arquitectura de software, las bases de datos y la creación de experiencias digitales intuitivas.
-
-Mi objetivo es transformar ideas en productos digitales que sean:
-
-- ⚡ Rápidos
-- 🎨 Modernos
-- 🧠 Inteligentes
-- 📱 Responsivos
-- 🔒 Seguros
-- 🚀 Escalables
-
-</td>
-
-<td width="45%" valign="top">
-
-```text
-┌─────────────────────────────┐
-│                             │
-│     👨‍💻 DEVELOPER           │
-│                             │
-│  ───────────────────────    │
-│                             │
-│  💻 Development             │
-│  🎨 UI / UX                 │
-│  🧠 Problem Solving         │
-│  ⚡ Performance             │
-│  🚀 Innovation              │
-│                             │
-│  ───────────────────────    │
-│                             │
-│       CODE.CREATE.          │
-│        INNOVATE.            │
-│                             │
-└─────────────────────────────┘
+    public void presentar() {
+        System.out.println("¡Bienvenido a mi perfil! 🚀");
+    }
+}
 ```
 
-</td>
+- 🎓 **Ingeniero de Sistemas** graduado de la *Fundación Universitaria Juan de Castellanos* (Tunja, Colombia).
+- 💻 Apasionado por el desarrollo **Full Stack**, desde el backend hasta interfaces que realmente aporten valor.
+- 🤖 Explorando constantemente el mundo de la **Inteligencia Artificial** aplicada a soluciones reales.
+- 🌱 Convencido de que el software más valioso es el que se construye **con propósito**.
+- ⚡ Siempre en búsqueda de nuevos retos técnicos y aprendizaje continuo.
 
-</tr>
+<br clear="right"/>
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 👨‍💻 Lenguajes
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+### ⚙️ Frameworks & Backend
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🗄️ Bases de Datos & Entornos
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+### 🧰 Entornos de Desarrollo
+
+<div align="center">
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 World of Words</h3>
+      <p>
+        Videojuego 2D desarrollado en <b>Unity</b> orientado a la <b>detección temprana de dislexia</b> 
+        en población infantil, combinando mecánicas de juego con evaluación cognitiva no invasiva.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Propósito%20Social-8A2BE2?style=flat-square"/>
+      </p>
+      <a href="https://github.com/luisdavidmontero1016?tab=repositories">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Sistemas de Automatización & Gestión</h3>
+      <p>
+        Conjunto de herramientas y aplicaciones empresariales orientadas a la <b>automatización de procesos</b>, 
+        gestión de información y optimización de flujos de trabajo mediante software a la medida.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/luisdavidmontero1016?tab=repositories">
+        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
----
-
 <div align="center">
-
-# 🧠 TECH STACK
-
-<br>
-
-### 🎨 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,tailwind" />
-
-<br><br>
-
-### ⚙️ BACKEND
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-
-<br><br>
-
-### 🗄️ DATABASE
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-<br><br>
-
-### 🛠️ TOOLS & DEVOPS
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
-
+  <sub>📌 Explora todos mis repositorios en <a href="https://github.com/luisdavidmontero1016?tab=repositories">github.com/luisdavidmontero1016</a></sub>
 </div>
 
-<br>
-
 ---
+
+## 📊 GitHub Analytics & Stats
 
 <div align="center">
 
-# 🚀 PROYECTOS DESTACADOS
-
-<p>
-Algunos de los proyectos que representan mi experiencia
-en desarrollo de software.
-</p>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=luisdavidmontero1016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavidmontero1016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
 
 <br>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎩 Sistema de Eventos Formales
-
-Sistema web desarrollado para la **gestión integral de eventos formales**, permitiendo centralizar y administrar diferentes procesos relacionados con la organización de eventos.
-
-### ✨ Funcionalidades
-
-- 📅 Creación y gestión de eventos
-- 👥 Administración de invitados
-- 🏢 Gestión de proveedores
-- 💰 Generación de presupuestos
-- 📊 Seguimiento de asistencia
-- 👤 Gestión de usuarios y roles
-- 📋 Información de servicios y materiales
-
-### 🛠️ Tecnologías
-
-`Java` `Spring` `MySQL`
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/luisdavidmontero1016">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎮 Videojuego Educativo
-
-Videojuego desarrollado como una propuesta tecnológica orientada a la **detección de posibles dificultades relacionadas con la dislexia y la disgrafía**, mediante actividades interactivas.
-
-### ✨ Características
-
-- 🎮 Experiencia interactiva
-- 🧠 Actividades cognitivas
-- 🔤 Ejercicios relacionados con lectura
-- ✏️ Actividades relacionadas con escritura
-- 📊 Registro de resultados
-- 🎯 Enfoque educativo
-
-### 🛠️ Tecnologías
-
-`Java`
-
-`Game Development`
-
-`UI / UX`
-
-<br>
-
-<a href="https://github.com/luisdavidmontero1016">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎱 Sistema de Gestión para Billar
-
-Sistema desarrollado para facilitar la **administración de un establecimiento de billar**, centralizando información y automatizando diferentes procesos.
-
-### ✨ Funcionalidades
-
-- 🎱 Gestión de mesas
-- 👥 Gestión de clientes
-- ⏱️ Control de tiempo
-- 💰 Registro de pagos
-- 📊 Gestión de información
-- 🧾 Administración de servicios
-
-### 🛠️ Tecnologías
-
-`Java` `Spring` `MySQL`
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/luisdavidmontero1016">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Portfolio Personal
-
-Portfolio profesional diseñado para presentar mis habilidades, proyectos y experiencia como desarrollador.
-
-Construido con una estética moderna, responsive e interactiva.
-
-### ✨ Características
-
-- 🌌 Dark UI
-- ⚡ Animaciones avanzadas
-- 🎨 Gradientes
-- 🖱️ Microinteracciones
-- 📱 Diseño responsive
-- ✨ Efectos visuales
-- 🚀 Optimizado para Vercel
-
-### 🛠️ Tecnologías
-
-`HTML5`
-
-`Tailwind CSS`
-
-`JavaScript`
-
-`GSAP`
-
-<br>
-
-<a href="TU_PORTAFOLIO_VERCEL">
-<img src="https://img.shields.io/badge/VER_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 📊 GITHUB ANALYTICS
-
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=luisdavidmontero1016&show_icons=true&hide_border=true&bg_color=0b0f19&title_color=60a5fa&text_color=cbd5e1&icon_color=8b5cf6&include_all_commits=true"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavidmontero1016&layout=compact&hide_border=true&bg_color=0b0f19&title_color=60a5fa&text_color=cbd5e1"
-  height="180"
-  alt="Top Languages"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=luisdavidmontero1016&theme=dark&hide_border=true&background=0b0f19&ring=2563eb&fire=8b5cf6&currStreakLabel=60a5fa"
-  width="500"
-  alt="GitHub Streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luisdavidmontero1016&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d75&currStreakLabel=00f5ff" width="70%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+<!-- ========================================================= -->
+
+<!--                       GITHUB ACTIVITY                      -->
+
+<!-- ========================================================= -->
+
+## 🐍 Contribution Activity
+
 <div align="center">
 
-# 🐍 CONTRIBUTION ACTIVITY
-
-<br>
-
-<img
-  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🎯 ÁREAS DE INTERÉS
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 💻
-
-**Web Development**
-
-Aplicaciones web modernas y escalables.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**Software Engineering**
-
-Arquitectura y buenas prácticas.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**UI / UX**
-
-Experiencias digitales intuitivas.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Innovation**
-
-Nuevas tecnologías y soluciones.
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
 <div align="center">
 
-# 🔭 CURRENT FOCUS
+### 💬 "El código que perdura es el que nace de un propósito"
 
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🔥 Actualmente
-
-- Desarrollo de aplicaciones web
-- Proyectos Full Stack
-- Arquitectura de software
-- Desarrollo de sistemas
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🌱 Aprendiendo
-
-- Nuevas tecnologías
-- Backend & APIs
-- Cloud Computing
-- DevOps
-- Inteligencia Artificial
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💡 Interesado en
-
-- Software Architecture
-- UI/UX
-- Automatización
-- Inteligencia Artificial
-- Desarrollo de productos
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 💡 MI FILOSOFÍA
-
-<br>
-
-> ### `CODE. CREATE. INNOVATE.`
-
-<br>
-
-**El buen software no solo debe funcionar.**
-
-**También debe ser fácil de usar, mantener y evolucionar.**
-
-<br>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌐 CONECTEMOS
-
-<br>
-
-<p>
-¿Tienes una idea, proyecto o simplemente quieres hablar sobre tecnología?
-</p>
-
-<br>
-
-<a href="https://github.com/luisdavidmontero1016">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:TU_CORREO@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-### `Transformando ideas en código. 🚀`
-
-<br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:6366f1,100:8b5cf6&height=120&section=footer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
