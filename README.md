@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Desarrollando+software+con+prop%C3%B3sito;Full+Stack+Developer+%7C+Java+%7C+Python+%7C+C%23;Esforzarse+Superar+Avan;Ingeniero+de+Sistemas+%40+Juan+de+Castellanos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=El+destino+no+es+algo+que+se+decide+por+ti%2C+es+algo+que+t%C3%BA+mismo+creas" alt="Typing SVG" />
 
 <br><br>
 
