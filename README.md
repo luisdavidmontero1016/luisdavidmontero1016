@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=El+destino+no+es+algo+que+se+decide+por+ti%2C+es+algo+que+t%C3%BA+mismo+creas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=El+destino+no+es+algo+que+se+decide+por+ti;Es+algo+que+t%C3%BA+mismo+creas" alt="Typing SVG" />
 
 <br><br>
 
@@ -28,29 +28,9 @@
 
 <img align="right" src="https://raw.githubusercontent.com/luisdavidmontero1016/luisdavidmontero1016/main/assets/coding.gif" width="280" alt="coding gif" onerror="this.style.display='none'"/>
 
-```java
-public class LuisDavidMontero {
+Ingeniero de Sistemas y desarrollador **Full Stack**, enfocado en transformar ideas complejas en soluciones de software eficientes, escalables y con propósito. 
 
-    private String rol       = "Ingeniero de Sistemas";
-    private String universidad = "Fundación Universitaria Juan de Castellanos";
-    private String ubicacion = "Tunja, Boyacá - Colombia";
-    private String[] pasiones = {
-        "Desarrollo Full Stack",
-        "Inteligencia Artificial",
-        "Software con propósito social"
-    };
-
-    public void presentar() {
-        System.out.println("¡Bienvenido a mi perfil! 🚀");
-    }
-}
-```
-
-- 🎓 **Ingeniero de Sistemas** graduado de la *Fundación Universitaria Juan de Castellanos* (Tunja, Colombia).
-- 💻 Apasionado por el desarrollo **Full Stack**, desde el backend hasta interfaces que realmente aporten valor.
-- 🤖 Explorando constantemente el mundo de la **Inteligencia Artificial** aplicada a soluciones reales.
-- 🌱 Convencido de que el software más valioso es el que se construye **con propósito**.
-- ⚡ Siempre en búsqueda de nuevos retos técnicos y aprendizaje continuo.
+Apasionado por la arquitectura de sistemas, la integración de **Inteligencia Artificial** y el aprendizaje continuo, siempre en búsqueda de nuevos retos técnicos que impulsen la innovación.
 
 <br clear="right"/>
 
