@@ -28,9 +28,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/luisdavidmontero1016/luisdavidmontero1016/main/assets/coding.gif" width="280" alt="coding gif" onerror="this.style.display='none'"/>
 
-Ingeniero de Sistemas y desarrollador **Full Stack**, enfocado en transformar ideas complejas en soluciones de software eficientes, escalables y con propósito. 
+Ingeniero de Sistemas y desarrollador Full Stack, enfocado en transformar ideas complejas en soluciones de software eficientes, escalables y con propósito.
 
-Apasionado por la arquitectura de sistemas, la integración de **Inteligencia Artificial** y el aprendizaje continuo, siempre en búsqueda de nuevos retos técnicos que impulsen la innovación.
+Más allá de escribir código, me motiva comprender a fondo cómo interactúan la arquitectura de sistemas y la lógica de negocio para construir plataformas sólidas. Disfruto explorando la integración de Inteligencia Artificial para dotar a las aplicaciones de capacidades inteligentes, optimizando procesos y creando experiencias de usuario fluidas.
+
+Creo firmemente en la disciplina técnica, el aprendizaje continuo y la experimentación constante como los pilares fundamentales para evolucionar profesionalmente y enfrentar cualquier reto tecnológico
 
 <br clear="right"/>
 
