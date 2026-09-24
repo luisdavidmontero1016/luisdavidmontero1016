@@ -32,11 +32,12 @@ Ingeniero de Sistemas y desarrollador Full Stack, enfocado en transformar ideas 
 
 Más allá de escribir código, me motiva comprender a fondo cómo interactúan la arquitectura de sistemas y la lógica de negocio para construir plataformas sólidas. Disfruto explorando la integración de Inteligencia Artificial para dotar a las aplicaciones de capacidades inteligentes, optimizando procesos y creando experiencias de usuario fluidas.
 
-Creo firmemente en la disciplina técnica, el aprendizaje continuo y la experimentación constante como los pilares fundamentales para evolucionar profesionalmente y enfrentar cualquier reto tecnológico
+Creo firmemente en la disciplina técnica, el aprendizaje continuo y la experimentación constante como los pilares fundamentales para evolucionar profesionalmente y enfrentar cualquier reto tecnológico.
 
 <br clear="right"/>
 
 ---
+
 ## 🛠️ Tecnologías y Herramientas
 
 ### 🖥️ Frontend & UI
@@ -81,41 +82,34 @@ Creo firmemente en la disciplina técnica, el aprendizaje continuo y la experime
 
 ## 📊 GitHub Analytics & Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/luisdavidmontero1016">
+    <img src="https://github-readme-stats.vercel.app/api?username=luisdavidmontero1016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&count_private=true" width="48%" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/luisdavidmontero1016">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavidmontero1016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" width="48%" alt="Top Languages"/>
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=luisdavidmontero1016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavidmontero1016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luisdavidmontero1016&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d75&currStreakLabel=00f5ff" width="70%" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisdavidmontero1016&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff2d75&currStreakLabel=00f5ff" width="70%" alt="GitHub Streak"/>
+</p>
 
 ---
-
-<!-- ========================================================= -->
-
-<!--                       GITHUB ACTIVITY                      -->
-
-<!-- ========================================================= -->
 
 ## 🐍 Contribution Activity
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
 </div>
-
----
-
 
 ---
 
 <div align="center">
 
 ### 💬 "El código que perdura es el que nace de un propósito"
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
