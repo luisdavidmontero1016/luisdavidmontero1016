@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=El+destino+no+es+algo+que+se+decide+por+ti;Es+algo+que+t%C3%BA+mismo+creas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=El+destino+no+es+algo+que+se+decide+por+ti;Es+algo+que+t%C3%BA+mismo+creas." alt="Typing SVG" />
 
 <br><br>
 
