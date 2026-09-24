@@ -79,49 +79,6 @@ Creo firmemente en la disciplina técnica, el aprendizaje continuo y la experime
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 World of Words</h3>
-      <p>
-        Videojuego 2D desarrollado en <b>Unity</b> orientado a la <b>detección temprana de dislexia</b> 
-        en población infantil, combinando mecánicas de juego con evaluación cognitiva no invasiva.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Propósito%20Social-8A2BE2?style=flat-square"/>
-      </p>
-      <a href="https://github.com/luisdavidmontero1016?tab=repositories">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Sistemas de Automatización & Gestión</h3>
-      <p>
-        Conjunto de herramientas y aplicaciones empresariales orientadas a la <b>automatización de procesos</b>, 
-        gestión de información y optimización de flujos de trabajo mediante software a la medida.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/luisdavidmontero1016?tab=repositories">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <sub>📌 Explora todos mis repositorios en <a href="https://github.com/luisdavidmontero1016?tab=repositories">github.com/luisdavidmontero1016</a></sub>
-</div>
-
----
-
 ## 📊 GitHub Analytics & Stats
 
 <div align="center">
