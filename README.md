@@ -40,7 +40,7 @@ Creo firmemente en la disciplina técnica, el aprendizaje continuo y la experime
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 🖥️ Frontend & UI
+### 🖥️ Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
